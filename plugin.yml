@@ -1,0 +1,7 @@
+name: AllWarp
+main: us.jophest.allwarp.Allwarp
+version: 1.0
+author: JOPHESTUS
+description: Takes all players to a warp
+commands:
+    allwarp:
